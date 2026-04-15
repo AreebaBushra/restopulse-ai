@@ -2,7 +2,8 @@
 
 For whatsapp:
 
-![Combined WhatsApp Workflow](./combined-for-whatsapp)
+<img width="1913" height="971" alt="combined-for-whatsapp" src="https://github.com/user-attachments/assets/f9c4e7fb-ac33-41d9-8296-615a9c352008" />
+
 
 
 Demo Video Link: 🔗 Video Link
@@ -10,7 +11,8 @@ Demo Video Link: 🔗 Video Link
 
 For website:
 
-![Combined Website Workflow](./combined-website-workflow.png)
+<img width="1026" height="582" alt="combined-website-workflow" src="https://github.com/user-attachments/assets/e90c2d74-b578-4d69-9c34-c6d9400200df" />
+
 
 ## Technology Document
 
